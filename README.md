@@ -28,3 +28,6 @@ Routing: React Router DOM
 State Management: Redux, React-Redux
 
 Icons: React Icons
+
+# 🖼️ Image Credits
+All property images are sourced from Unsplash. Copyright belongs to their respective photographers.
