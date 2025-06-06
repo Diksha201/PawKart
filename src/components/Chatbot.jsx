@@ -78,7 +78,7 @@ const Chatbot = () => {
             />
             <button
               onClick={handleSend}
-              className="bg-pink-500 text-white px-3 py-1 rounded-full hover:bg-[#334155] text-sm"
+              className="bg-pink-500 text-white px-3 py-1 rounded-full hover:bg-yellow-500 text-sm"
             >
               Send
             </button>
