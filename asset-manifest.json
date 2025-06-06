@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/PawKart/static/css/main.6953e700.css",
-    "main.js": "/PawKart/static/js/main.752ba2b5.js",
+    "main.css": "/PawKart/static/css/main.06126f80.css",
+    "main.js": "/PawKart/static/js/main.d4ce8f2f.js",
     "index.html": "/PawKart/index.html",
-    "main.6953e700.css.map": "/PawKart/static/css/main.6953e700.css.map",
-    "main.752ba2b5.js.map": "/PawKart/static/js/main.752ba2b5.js.map"
+    "main.06126f80.css.map": "/PawKart/static/css/main.06126f80.css.map",
+    "main.d4ce8f2f.js.map": "/PawKart/static/js/main.d4ce8f2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.6953e700.css",
-    "static/js/main.752ba2b5.js"
+    "static/css/main.06126f80.css",
+    "static/js/main.d4ce8f2f.js"
   ]
 }
