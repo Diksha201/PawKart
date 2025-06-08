@@ -20,7 +20,7 @@ const Navbar = () => {
         <NavLink to="/">
           <div className="ml-5">
             {/* h-20 */}
-            <img src="logo.png" alt="Logo" className="h-12 sm:h-14 md:h-16 lg:h-20 xl:h-20 object-contain" />
+            <img src="logo.png" alt="Logo" className="h-20" />
           </div>
         </NavLink>
 
