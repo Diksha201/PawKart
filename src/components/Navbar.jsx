@@ -19,8 +19,8 @@ const Navbar = () => {
 
         <NavLink to="/">
           <div className="ml-5">
-            {/* h-14 */}
-            <img src="logo.png" alt="Logo" className="h-20" />
+            {/* h-20 */}
+            <img src="logo.png" alt="Logo" className="h-12 sm:h-14 md:h-16 lg:h-20 xl:h-20 object-contain" />
           </div>
         </NavLink>
 
@@ -30,7 +30,7 @@ const Navbar = () => {
             placeholder="Search products..."
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
-            className="w-full px-4 py-2 border border-gray-300 rounded-full focus:outline-none focus:ring-2 focus:ring-yellow-400"
+            className="w-full px-4 sm:px-5 md:px-6 py-2 sm:py-2.5 text-sm sm:text-base md:text-lg border border-gray-300 rounded-full focus:outline-none focus:ring-2 focus:ring-yellow-400 placeholder:text-gray-400"
           />
           <img
             src="https://cdn-icons-png.flaticon.com/256/5680/5680244.png"
